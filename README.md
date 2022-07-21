@@ -1,1 +1,1 @@
-# nix_practice_js
+# nix js course's tasks.
